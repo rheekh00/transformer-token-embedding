@@ -68,18 +68,26 @@
 
 ### 높은 유사도를 보이는 토큰 쌍
 
-#### Top 500 유사도 토큰쌍
+#### Top & Bottom 500 유사도 토큰쌍 정렬
 **인코더의 출력 임베딩**
-![Image](https://github.com/user-attachments/assets/54d8a819-c7f2-4d14-b658-e0b1281832c1)
+![image](https://github.com/user-attachments/assets/ce437d08-844f-49d7-835e-95662866215a)
+![image](https://github.com/user-attachments/assets/29b37767-3dd8-4c04-a255-a9e91e6f2401)
+
 
 **디코더의 출력 임베딩**
-![Image](https://github.com/user-attachments/assets/82103961-52cf-4470-a71c-b552200e15ee)
+![image](https://github.com/user-attachments/assets/03f8be50-5b5c-4747-9f0e-1e86a5d0bed2)
+![image](https://github.com/user-attachments/assets/418e204e-5708-481c-90d4-c71ec972794d)
+
 
 **인코더의 룩업 테이블**
-![Image](https://github.com/user-attachments/assets/fd165a5e-2233-4081-9a6f-63fa1d412fff)
+![image](https://github.com/user-attachments/assets/f94232ea-dd00-4313-a55b-64ea513dd822)
+![image](https://github.com/user-attachments/assets/5e718e3f-db19-4da3-8804-69f408da9971)
+
 
 **디코더의 룩업 테이블**
-![Image](https://github.com/user-attachments/assets/7e49f536-8d56-4934-8c1f-0bdcf2e1a4b2)
+![image](https://github.com/user-attachments/assets/1e27432a-24b1-46fd-8d69-abacbd13ff8b)
+![image](https://github.com/user-attachments/assets/df2c0c3a-0e9f-4712-8a33-21d0ffb1f0f9)
+
 
 
 #### 인코더의 출력 룩업 테이블
